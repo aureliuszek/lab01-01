@@ -1,0 +1,7 @@
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe.config
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.pdb
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.csprojAssemblyReference.cache
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.exe
+C:\Users\AliQ\Documents\githubek\Lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.pdb
